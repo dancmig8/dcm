@@ -1,0 +1,19 @@
+body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #3c3a41;
+        }
+        h1 {
+            color: #ad9d42;
+        }
+        p {
+            color: #0a618a;
+        }
+        a {
+            color: #169112;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
